@@ -26,6 +26,8 @@ brew install dfu-programmer
 
 ## Flashing
 
+put Keyboard into mode to flash bootloader, to do so hold space+b while plugging in.
+
 ```bash
 make clean
 make hhkb:schaeferdev:dfu
